@@ -2,7 +2,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-- 💻 &nbsp; ReactJS • React Native • NextJS
+- 💻 &nbsp; ReactJS • NextJS • React Native
 - 🌐 &nbsp; JavaScript • TypeScript • HTML5 • CSS • Bootstrap • Tailwind CSS
 - 🛢 &nbsp; MongoDB • PostreSQL • GraphQL
 - 🔧 &nbsp; IntelliJ IDEA • Android Studio
