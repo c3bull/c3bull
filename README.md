@@ -9,8 +9,3 @@
 - ⚙️ &nbsp; Git • Github
 - ✔️ &nbsp; REST API • SEO • Responsive Web Design
 - 🖌️ &nbsp; Illustrator • Photoshop • Gimp
-<br/>
-
-<a href="https://github.com/c3bull">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c3bull&theme=buefy&layout=compact" />
-</a>
