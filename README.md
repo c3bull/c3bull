@@ -5,7 +5,7 @@
 - 💻 &nbsp; ReactJS • NextJS • React Native
 - 🌐 &nbsp; JavaScript • TypeScript • HTML5 • CSS • Bootstrap • Tailwind CSS
 - 🛢 &nbsp; MongoDB • PostreSQL • GraphQL
-- 🔧 &nbsp; IntelliJ IDEA • Android Studio
+- 🔧 &nbsp; IntelliJ IDEA • WebStorm • Android Studio
 - ⚙️ &nbsp; Git • Github
 - ✔️ &nbsp; REST API • SEO • Responsive Web Design
 - 🖌️ &nbsp; Illustrator • Photoshop • Gimp
